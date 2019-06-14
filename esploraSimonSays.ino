@@ -1,6 +1,6 @@
 /*
  Esplora Simon Says   
- by Chad Painter
+ by winterSith
  */
 #include <Esplora.h>
 
